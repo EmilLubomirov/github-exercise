@@ -1,3 +1,4 @@
 Hello from me!
 Hello again for second time
 This is merged state
+My second branch text here
