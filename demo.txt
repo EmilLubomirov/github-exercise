@@ -2,5 +2,5 @@ Hello from me!
 Hello again for second time
 This is merged state
 My second branch text here
-This is by my-demo-branch
+This is by my-demo-branch2
 This is by the site2
