@@ -1,4 +1,3 @@
 Hello from me!
 Hello again for second time
 Hello again
-This message is typed from the site.
