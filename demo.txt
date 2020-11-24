@@ -4,4 +4,4 @@ This is merged state
 My second branch text here
 This is by my-demo-branch2
 This is by the site2
-This is update via -m
+This is update via -am
